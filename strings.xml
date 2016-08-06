@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GANTABVYA</string>
+    <string name="tb_title">GANTABVYA</string>
+    <string name="tb_sub_title">DESTINATION</string>
+    <string name="menu_1">option_1</string>
+    <string name="menu_2">option_2</string>
+    <string name="searchable">Searchable</string>
+    <string name="menu_search">Search</string>
+</resources>
